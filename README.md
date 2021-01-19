@@ -1,4 +1,4 @@
-[![header](https://github.com/laruse91/002.social-network/blob/main/src/assets/title.png?raw=true)](https://crypto-converter.web.app)
+[![header](https://github.com/laruse91/004.crypto-coverter/blob/main/public/title.png?raw=true)](https://crypto-converter.web.app)
 You can see and test site by the link below:  
 [Crypto-converter](https://crypto-converter.web.app)
 
