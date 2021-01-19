@@ -1,46 +1,22 @@
-# Getting Started with Create React App
+[![header](https://github.com/laruse91/002.social-network/blob/main/src/assets/title.png?raw=true)](https://crypto-converter.web.app)
+You can see and test site by the link below:  
+[Crypto-converter](https://crypto-converter.web.app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Crypto Converter
+This is learning project on React JS and TypeScript. Each 10 sec information of currencies updates by `GET` request , so you can find actual price of crypto-currency and convert it if necessary.
 
-## Available Scripts
+Briefly about the libraries used on the project:
+* `MobX` to manage State of application
+* `axios` library is used for `GET` requests
+* `Material UI` library used for the design of some components
 
-In the project directory, you can run:
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Labels
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white 'TypeScript')
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23DAF7A6?style=flat-square&logo=javaScript&logoColor=%23607d8b 'JavaScript')
+![ReactJS](https://img.shields.io/badge/-React_JS-%2361dafb?style=flat-square&logo=react&logoColor=%23000000 'React JS')
+![MobX](https://img.shields.io/badge/-MobX-%23f9a825?style=flat-square&logo=mobx&logoColor=%23616161 'MobX')
+![Material_UI](https://img.shields.io/badge/-Material_UI-%231976d2?style=flat-square&logo=material-ui 'AntDesign')
+![GitHub](https://img.shields.io/badge/-GitHub-%23212121?style=flat-square&logo=gitHub 'GitHub')
+![WebStorm](https://img.shields.io/badge/-WebStorm-%23607d8b?style=flat-square&logo=webstorm&logoColor=white 'WebStorm')
+![Yarn](https://img.shields.io/badge/-Yarn-%23eeeeee?style=flat-square&logo=yarn 'Yarn')
