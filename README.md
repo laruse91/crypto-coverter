@@ -11,7 +11,7 @@ Briefly about the libraries used on the project:
 * `Material UI` library used for the design of some components
 
 
-### Labels
+### Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white 'TypeScript')
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23DAF7A6?style=flat-square&logo=javaScript&logoColor=%23607d8b 'JavaScript')
 ![ReactJS](https://img.shields.io/badge/-React_JS-%2361dafb?style=flat-square&logo=react&logoColor=%23000000 'React JS')

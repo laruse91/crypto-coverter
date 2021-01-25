@@ -1,5 +1,5 @@
 {
-  "name": "004.crypto-coverter",
+  "name": "crypto-coverter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,6 @@
     "@types/react-dom": "^16.9.8",
     "@typescript-eslint/parser": "^4.13.0",
     "axios": "^0.21.1",
-    "firebase": "^8.2.2",
     "mobx": "^6.0.4",
     "mobx-react": "^7.0.5",
     "react": "^17.0.1",
@@ -50,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "firebase": "^8.2.2",
     "eslint": "^7.16.0",
     "eslint-plugin-react": "^7.21.5"
   }

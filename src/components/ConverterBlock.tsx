@@ -5,8 +5,10 @@ import store from '../store/store'
 import {observer} from 'mobx-react'
 import {TStyle} from '../types/types'
 
+
 export const ConverterBlock: React.FC =
     observer(() => {
+
             const style: TStyle = useStyles()
             const itemsNames: Array<string> = store?.getCoins.map(coin => coin.name)!
 //fields values onChange func
