@@ -1,6 +1,6 @@
-[![header](https://github.com/laruse91/004.crypto-coverter/blob/main/public/title.png?raw=true)](https://crypto-converter.web.app)
+[![header](https://github.com/laruse91/004.crypto-coverter/blob/main/public/title.png?raw=true)](https://cryptocoins-converter.web.app)
 You can see and test site by the link below:  
-[Crypto-converter](https://crypto-converter.web.app)
+[Crypto-converter](https://cryptocoins-converter.web.app)
 
 ## Crypto Converter
 This is learning project on React JS and TypeScript. Each 10 sec information of currencies updates by `GET` request , so you can find actual price of crypto-currency and convert it if necessary.
